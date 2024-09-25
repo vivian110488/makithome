@@ -395,6 +395,122 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_a99rJx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BKJNkX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Assistance for Your Shopping Needs",
+            "heading_size": "h1"
+          }
+        },
+        "text_CywHra": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>We’re Here to Help!</h2>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BKJNkX",
+        "text_CywHra"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_Qzbm3b": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ac9hBf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/We_re_Here_to_Help-_1.png",
+            "title": "Customer service",
+            "text": "<p>Dedicated support to assist you with any questions or concerns, ensuring a seamless experience.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7hbUkG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/We_re_Here_to_Help-_2.png",
+            "title": "Premium Value",
+            "text": "<p>High-quality products that deliver exceptional performance and reliability.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DCmzPT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/We_re_Here_to_Help-_3.png",
+            "title": "Delivery",
+            "text": "<p>Fast and reliable shipping to get your orders to you as quickly as possible.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ac9hBf",
+        "column_7hbUkG",
+        "column_DCmzPT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_kFqfMX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FijnDC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transform Your Home With Makithome",
+            "heading_size": "h1"
+          }
+        },
+        "text_nGecpt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>—where innovative appliances, fitness essentials, and versatile products come together to elevate your living space, boost your health, and simplify everyday life.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FijnDC",
+        "text_nGecpt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -408,6 +524,9 @@
     "multirow_XzeaXw",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "rich_text_a99rJx",
+    "multicolumn_Qzbm3b",
+    "rich_text_kFqfMX"
   ]
 }
