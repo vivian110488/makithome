@@ -17,28 +17,28 @@
         "link_list_FhRmVC": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "<strong>My Account</strong>",
             "menu": "my-account"
           }
         },
         "link_list_yzdtVX": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "<strong>Company Info</strong>",
             "menu": "company-info"
           }
         },
         "link_list_NNT6y8": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "<strong>Support</strong>",
             "menu": "support"
           }
         },
         "text_6FHrz4": {
           "type": "text",
           "settings": {
-            "heading": "Have a Question?",
+            "heading": "<strong>Have a Question?</strong>",
             "subtext": "<p><a href=\"mailto:support@makithome.com\" target=\"_blank\" title=\"mailto:support@makithome.com\">support@makithome.com</a><br/>Office Hour: Mon - Fri, 9am-5pm PST<br/></p>"
           }
         }
