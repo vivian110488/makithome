@@ -433,7 +433,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/We_re_Here_to_Help-_1.png",
-            "title": "Customer service",
+            "title": "<strong>Customer service</strong>",
             "text": "<p>Dedicated support to assist you with any questions or concerns, ensuring a seamless experience.<br/></p>",
             "link_label": "",
             "link": ""
@@ -443,7 +443,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/We_re_Here_to_Help-_2.png",
-            "title": "Premium Value",
+            "title": "<strong>Premium Value</strong>",
             "text": "<p>High-quality products that deliver exceptional performance and reliability.<br/></p>",
             "link_label": "",
             "link": ""
@@ -453,7 +453,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/We_re_Here_to_Help-_3.png",
-            "title": "Delivery",
+            "title": "<strong>Delivery</strong>",
             "text": "<p>Fast and reliable shipping to get your orders to you as quickly as possible.<br/></p>",
             "link_label": "",
             "link": ""
@@ -468,12 +468,12 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
