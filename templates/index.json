@@ -155,7 +155,7 @@
         "collection": "all",
         "products_to_show": 8,
         "columns_desktop": 4,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
@@ -240,6 +240,40 @@
         "padding_bottom": 36
       }
     },
+    "multirow_XzeaXw": {
+      "type": "multirow",
+      "blocks": {
+        "row_tcgjJz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/3.jpg",
+            "caption": "",
+            "heading": "Find A Better Charging Solution For You Devices",
+            "text": "<p>Experience unmatched convenience with our 3-in-1 wireless charger! <br/>Charge your phone, headphones, and smartwatch simultaneously for fast and efficient charging. Compatible with iPhone, Android, and more, it's the perfect solution for home or office.</p>",
+            "button_label": "CLICK TO KNOW MORE",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_tcgjJz"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -268,11 +302,12 @@
         "product",
         "collection-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-1",
         "padding_top": 36,
@@ -281,6 +316,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -299,8 +335,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/7f19922ee4762246715e8549fe74c614.webp",
+            "title": "无线充",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -308,8 +345,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/6739610c8de6f41372444715b1b7583f.webp",
+            "title": "家庭收纳",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -317,8 +355,19 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/a568305a1cffd18da0bd29bcdfcac9bf.webp",
+            "title": "体育运动及健身用品",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UEpWJt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2244d6694681270f59d680d4a8a3fcd3.webp",
+            "title": "电动工具及配件",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -327,16 +376,17 @@
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "column_UEpWJt"
       ],
       "settings": {
-        "title": "",
+        "title": "Effortless LivingConvenience at Your Fingertips",
         "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
@@ -355,6 +405,7 @@
     "featured_collection",
     "multirow_9qpPeV",
     "multirow_dE8PYV",
+    "multirow_XzeaXw",
     "collage",
     "video",
     "multicolumn"
