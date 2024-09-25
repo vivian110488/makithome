@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -5,37 +14,46 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
+        "link_list_FhRmVC": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
-            "menu": "footer"
+            "menu": "my-account"
           }
         },
-        "footer-1": {
+        "link_list_yzdtVX": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
-            "menu": "footer"
+            "heading": "Quick links",
+            "menu": "company-info"
           }
         },
-        "footer-2": {
+        "link_list_NNT6y8": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "support"
+          }
+        },
+        "text_6FHrz4": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Have a Question?",
+            "subtext": "<p><a href=\"mailto:support@makithome.com\" target=\"_blank\" title=\"mailto:support@makithome.com\">support@makithome.com</a><br/>Office Hour: Mon - Fri, 9am-5pm PST<br/></p>"
           }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1",
-        "footer-2"
+        "link_list_FhRmVC",
+        "link_list_yzdtVX",
+        "link_list_NNT6y8",
+        "text_6FHrz4"
       ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,
