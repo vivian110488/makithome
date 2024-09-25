@@ -172,6 +172,74 @@
         "padding_bottom": 36
       }
     },
+    "multirow_9qpPeV": {
+      "type": "multirow",
+      "blocks": {
+        "row_yaYFfN": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg",
+            "caption": "",
+            "heading": "Enhance Your Garden Sanctuary with MAKIT HOME",
+            "text": "<p>Revitalize your outdoor space with our carefully curated selection of gardening tools and outdoor decor. <br/><br/>At MAKIT HOME, we believe that your garden is an extension of your home—a place where you can nurture your surroundings and find peace. </p>",
+            "button_label": "SEE MORE PRODUCTS",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_yaYFfN"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_dE8PYV": {
+      "type": "multirow",
+      "blocks": {
+        "row_eDLrCf": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/2.jpg",
+            "caption": "",
+            "heading": "Explore Our Versatile Home Solutions",
+            "text": "<p>From Garage to Garden, and every room in between, our diverse range of products meets your needs and exceeds your expectations. <br/><br/>Discover endless possibilities for every corner of your home.</p>",
+            "button_label": "DISCOVER MORE",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_eDLrCf"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "large",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -285,6 +353,8 @@
     "rich_text_LiQVYq",
     "image_banner_7Qr4Bz",
     "featured_collection",
+    "multirow_9qpPeV",
+    "multirow_dE8PYV",
     "collage",
     "video",
     "multicolumn"
