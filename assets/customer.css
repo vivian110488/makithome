@@ -764,15 +764,15 @@ li[data-address] > h2 {
 }
 
 @media screen and (min-width: 750px) {
-  .image-with-text__media--small {
-      height: 29.1rem;
+  #shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__media--small {
+      height: 29.1rem !important;
   }
 }
 @media screen and (min-width: 990px) {
-  .image-with-text__content {
-      padding: 1rem 7rem 1rem;
+  #shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__content {
+      padding: 1rem 7rem 1rem !important;
   }
 }
-.image-with-text__media{
-  min-height: 80%;
+#shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__media{
+  min-height: 80% !important;
 }
