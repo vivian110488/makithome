@@ -807,8 +807,8 @@ li[data-address]>h2 {
 }
 
 #shopify-section-template--15807729926262__multicolumn .multicolumn .title-wrapper-with-link {
-  border: 1px dashed #f9cbaa !important;
-  padding: 1rem 0;
+  background-color: #f9cbaa !important;
+  padding: 1rem;
 }
 
 .footer__content-top {
