@@ -776,16 +776,6 @@ li[data-address]>h2 {
   font-weight: normal;
 }
 
-@media screen and (min-width: 990px) {
-  #shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__content {
-    padding: 1.2rem 0 0 7rem !important;
-  }
-}
-
-#shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__media {
-  min-height: 95% !important;
-}
-
 .slider-buttons {
   margin: -46px !important;
 }
