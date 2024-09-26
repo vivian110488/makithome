@@ -54,8 +54,8 @@
         "slide_VKzcCC"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
+        "layout": "grid",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
@@ -123,7 +123,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -133,12 +133,12 @@
       "settings": {
         "image": "shopify://shop_images/e061db9313d06e2cc7dcfc16d4ef6580.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -183,7 +183,7 @@
             "heading": "<strong>Enhance Your Garden Sanctuary with MAKIT HOME</strong>",
             "text": "<p>Revitalize your outdoor space with our carefully curated selection of gardening tools and outdoor decor. <br/><br/>At MAKIT HOME, we believe that your garden is an extension of your home—a place where you can nurture your surroundings and find peace. </p>",
             "button_label": "SEE MORE PRODUCTS",
-            "button_link": ""
+            "button_link": "shopify://pages/about-us"
           }
         }
       },
@@ -195,7 +195,7 @@
         "desktop_image_width": "medium",
         "heading_size": "h2",
         "text_style": "body",
-        "button_style": "primary",
+        "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-right",
@@ -217,7 +217,7 @@
             "heading": "<strong>Explore Our Versatile Home Solutions</strong>",
             "text": "<p>From Garage to Garden, and every room in between, our diverse range of products meets your needs and exceeds your expectations. <br/><br/>Discover endless possibilities for every corner of your home.</p>",
             "button_label": "DISCOVER MORE",
-            "button_link": ""
+            "button_link": "shopify://pages/about-us"
           }
         }
       },
@@ -229,7 +229,7 @@
         "desktop_image_width": "medium",
         "heading_size": "h2",
         "text_style": "body",
-        "button_style": "primary",
+        "button_style": "secondary",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
@@ -251,7 +251,7 @@
             "heading": "<strong>Find A Better Charging Solution For You Devices</strong>",
             "text": "<p>Experience unmatched convenience with our 3-in-1 wireless charger! <br/>Charge your phone, headphones, and smartwatch simultaneously for fast and efficient charging. Compatible with iPhone, Android, and more, it's the perfect solution for home or office.</p>",
             "button_label": "CLICK TO KNOW MORE",
-            "button_link": ""
+            "button_link": "shopify://pages/about-us"
           }
         }
       },
