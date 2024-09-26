@@ -820,7 +820,11 @@ li[data-address]>h2 {
   color: #fff;
 }
 
+.footer__content-top{
+  padding-bottom: 1rem;
+}
 .footer__content-bottom{
   background-color: #000;
   padding-bottom: 1rem;
+  padding-top: 0;
 }
