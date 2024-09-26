@@ -70,7 +70,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to MAKIT HOME!",
+            "heading": "<strong>Welcome to MAKIT HOME!</strong>",
             "heading_size": "h1"
           }
         }
