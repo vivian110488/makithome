@@ -819,3 +819,9 @@ li[data-address]>h2 {
 #shopify-section-template--15807729926262__rich_text_kFqfMX .rich-text__wrapper .h1 {
   color: #fff;
 }
+
+.footer{
+  background-color: #313131;
+  color: #ccc;
+  margin-top: 0;
+}
