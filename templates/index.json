@@ -147,7 +147,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Top-Rated Favorites",
+        "title": "<strong>Top-Rated Favorites</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
