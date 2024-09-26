@@ -826,5 +826,5 @@ li[data-address]>h2 {
 .footer__content-bottom{
   background-color: #000;
   padding-bottom: 1rem;
-  padding-top: 0;
+  padding-top: 0 !important;
 }
