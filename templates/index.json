@@ -438,7 +438,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 0
+        "padding_bottom": 20
       }
     },
     "multicolumn_Qzbm3b": {
@@ -490,7 +490,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
