@@ -791,7 +791,8 @@ li[data-address]>h2 {
 }
 
 #shopify-section-template--15807729926262__rich_text .rich-text__blocks .h1 {
-  color: #f9cbaa !important;
+  color: #ee822f !important;
+  order: 1px dotted #f9cbaa !important;
 }
 
 #shopify-section-template--15807729926262__rich_text_LiQVYq .rich-text__wrapper {
