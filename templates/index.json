@@ -380,8 +380,8 @@
         "column_UEpWJt"
       ],
       "settings": {
-        "title": "Effortless LivingConvenience at Your Fingertips",
-        "heading_size": "h1",
+        "title": "<strong>Effortless LivingConvenience at Your Fingertips</strong>",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 4,
@@ -402,7 +402,7 @@
         "heading_BKJNkX": {
           "type": "heading",
           "settings": {
-            "heading": "Assistance for Your Shopping Needs",
+            "heading": "<strong>Assistance for Your Shopping Needs</strong>",
             "heading_size": "h1"
           }
         },
@@ -488,7 +488,7 @@
         "heading_FijnDC": {
           "type": "heading",
           "settings": {
-            "heading": "Transform Your Home With Makithome",
+            "heading": "<strong>Transform Your Home With Makithome</strong>",
             "heading_size": "h1"
           }
         },
