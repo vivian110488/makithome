@@ -192,8 +192,8 @@
       ],
       "settings": {
         "image_height": "small",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
+        "desktop_image_width": "large",
+        "heading_size": "h2",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
@@ -259,7 +259,7 @@
         "row_tcgjJz"
       ],
       "settings": {
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "body",
