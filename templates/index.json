@@ -405,17 +405,10 @@
             "heading": "<strong>Assistance for Your Shopping Needs</strong>",
             "heading_size": "h1"
           }
-        },
-        "text_CywHra": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>We’re Here to Help!</h2>"
-          }
         }
       },
       "block_order": [
-        "heading_BKJNkX",
-        "text_CywHra"
+        "heading_BKJNkX"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -423,7 +416,29 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_LgkRit": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iDrryn": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>We’re Here to Help!</h2>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iDrryn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_Qzbm3b": {
@@ -472,14 +487,14 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_kFqfMX": {
@@ -526,6 +541,7 @@
     "video",
     "multicolumn",
     "rich_text_a99rJx",
+    "rich_text_LgkRit",
     "multicolumn_Qzbm3b",
     "rich_text_kFqfMX"
   ]
