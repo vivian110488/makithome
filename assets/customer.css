@@ -763,16 +763,12 @@ li[data-address] > h2 {
   font-weight: bold;
 }
 
-@media screen and (min-width: 750px) {
-  #shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__media--small {
-      height: 29.1rem !important;
-  }
-}
+
 @media screen and (min-width: 990px) {
   #shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__content {
-      padding: 1.5rem 7rem 0 !important;
+      padding: 0 7rem 0 !important;
   }
 }
 #shopify-section-template--15807729926262__multirow_dE8PYV .image-with-text__media{
-  min-height: 80% !important;
+  min-height: 95% !important;
 }
