@@ -55,7 +55,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "small",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
@@ -133,7 +133,7 @@
       "settings": {
         "image": "shopify://shop_images/e061db9313d06e2cc7dcfc16d4ef6580.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -212,7 +212,7 @@
         "row_eDLrCf": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/2.jpg",
+            "image": "shopify://shop_images/2_02_0873fce7-da33-4323-8856-0ef60ad5b0a0.jpg",
             "caption": "",
             "heading": "<strong>Explore Our Versatile Home Solutions</strong>",
             "text": "<p>From Garage to Garden, and every room in between, our diverse range of products meets your needs and exceeds your expectations. <br/><br/>Discover endless possibilities for every corner of your home.</p>",
