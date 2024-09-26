@@ -192,7 +192,7 @@
       ],
       "settings": {
         "image_height": "small",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "heading_size": "h2",
         "text_style": "body",
         "button_style": "secondary",
@@ -246,7 +246,7 @@
         "row_tcgjJz": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/3.jpg",
+            "image": "shopify://shop_images/3_18a9cd1e-6df4-4cd3-b79f-b9eb11da3f39.jpg",
             "caption": "",
             "heading": "Find A Better Charging Solution For You Devices",
             "text": "<p>Experience unmatched convenience with our 3-in-1 wireless charger! <br/>Charge your phone, headphones, and smartwatch simultaneously for fast and efficient charging. Compatible with iPhone, Android, and more, it's the perfect solution for home or office.</p>",
