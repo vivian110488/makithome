@@ -134,41 +134,34 @@
         "padding_bottom": 12
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
+    "rich_text_TNaTdU": {
+      "type": "rich-text",
       "blocks": {
-        "image-with-text-0": {
+        "heading_XeFEim": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "<strong>Assistance for Your Shopping Needs</strong>",
             "heading_size": "h1"
           }
         },
-        "image-with-text-1": {
+        "text_mmL3tn": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
+            "text": "<h2>We’re Here to Help!</h2>"
           }
         }
       },
       "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
+        "heading_XeFEim",
+        "text_mmL3tn"
       ],
       "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn": {
@@ -177,8 +170,9 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/We_re_Here_to_Help-_1.png",
+            "title": "<strong>Customer service</strong>",
+            "text": "<p>Dedicated support to assist you with any questions or concerns, ensuring a seamless experience.</p>",
             "link_label": "",
             "link": ""
           }
@@ -186,8 +180,19 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/We_re_Here_to_Help-_2.png",
+            "title": "<strong>Premium Value</strong>",
+            "text": "<p>High-quality products that deliver exceptional performance and reliability.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6zi689": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/We_re_Here_to_Help-_3.png",
+            "title": "<strong>Delivery</strong>",
+            "text": "<p>Fast and reliable shipping to get your orders to you as quickly as possible.</p>",
             "link_label": "",
             "link": ""
           }
@@ -195,15 +200,16 @@
       },
       "block_order": [
         "column-0",
-        "column-1"
+        "column-1",
+        "column_6zi689"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
+        "heading_size": "h2",
+        "image_width": "half",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
+        "columns_desktop": 3,
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -235,7 +241,7 @@
   },
   "order": [
     "main",
-    "image-with-text",
+    "rich_text_TNaTdU",
     "multicolumn",
     "related-products"
   ]
