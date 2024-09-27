@@ -815,6 +815,9 @@ li[data-address]>h2 {
   padding-bottom: 1rem;
   padding-top: 0 !important;
 }
+.footer .scroll-trigger.animate--slide-in{
+  opacity: 1;
+}
 
 /*--Find A Better Charging Solution For You Devices--*/
 #shopify-section-template--15807729926262__multirow_XzeaXw .image-with-text__media{
