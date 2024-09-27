@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -6,9 +15,97 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "rich_text_iLPDCJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bC7MjL": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Assistance for Your Shopping Needs</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_pm6znt": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>We’re Here to Help!</h2>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bC7MjL",
+        "text_pm6znt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_fFaYBr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jy9TTh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/We_re_Here_to_Help-_1.png",
+            "title": "Column",
+            "text": "<p>Dedicated support to assist you with any questions or concerns, ensuring a seamless experience.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pjJfei": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/We_re_Here_to_Help-_2.png",
+            "title": "<strong>Premium Value</strong>",
+            "text": "<p>High-quality products that deliver exceptional performance and reliability.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qcJgNx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/We_re_Here_to_Help-_3.png",
+            "title": "<strong>Delivery</strong>",
+            "text": "<p>Fast and reliable shipping to get your orders to you as quickly as possible.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jy9TTh",
+        "column_pjJfei",
+        "column_qcJgNx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_iLPDCJ",
+    "multicolumn_fFaYBr"
   ]
 }
