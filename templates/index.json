@@ -382,8 +382,8 @@
       "settings": {
         "title": "<strong>Effortless LivingConvenience at Your Fingertips</strong>",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
+        "image_width": "half",
+        "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
