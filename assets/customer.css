@@ -812,8 +812,6 @@ li[data-address]>h2 {
 }
 
 .footer__content-bottom {
-  background-color: #000;
-  color: #fff;
   padding-bottom: 1rem;
   padding-top: 0 !important;
 }
