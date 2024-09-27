@@ -101,11 +101,42 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_wLqGYL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DBbHpG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Transform Your Home With Makithome</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_cGJfMC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>—where innovative appliances, fitness essentials, and versatile products<br/> come together to elevate your living space, boost your health, and <br/>simplify everyday life.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DBbHpG",
+        "text_cGJfMC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-01eb13d2-7757-4af6-8839-5d022b9e814b",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "rich_text_iLPDCJ",
-    "multicolumn_fFaYBr"
+    "multicolumn_fFaYBr",
+    "rich_text_wLqGYL"
   ]
 }
