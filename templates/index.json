@@ -352,6 +352,37 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_6YABJb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6bHiPf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Effortless Living</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "heading_zQBXQd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Convenience at Your Fingertips</strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6bHiPf",
+        "heading_zQBXQd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-01eb13d2-7757-4af6-8839-5d022b9e814b",
+        "full_width": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "video": {
       "type": "video",
       "disabled": true,
@@ -418,7 +449,7 @@
         "column_UEpWJt"
       ],
       "settings": {
-        "title": "<strong>Effortless LivingConvenience at Your Fingertips</strong>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "adapt",
@@ -577,6 +608,7 @@
     "multirow_dE8PYV",
     "multirow_XzeaXw",
     "collage",
+    "rich_text_6YABJb",
     "video",
     "multicolumn",
     "rich_text_a99rJx",
