@@ -181,6 +181,29 @@
         "accessibility_info": ""
       }
     },
+    "rich_text_9CmdPW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nHwCr6": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nHwCr6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -482,7 +505,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 20
@@ -504,7 +527,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 20
@@ -559,7 +582,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -591,29 +614,6 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "scheme-01eb13d2-7757-4af6-8839-5d022b9e814b",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_9CmdPW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_nHwCr6": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_nHwCr6"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
