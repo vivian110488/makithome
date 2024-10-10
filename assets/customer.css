@@ -785,16 +785,16 @@ li[data-address]>h2 {
 #shopify-section-template--15807729926262__rich_text .rich-text__blocks .h1,
 #shopify-section-template--15807729926262__rich_text_a99rJx .rich-text__blocks .h1 {
   color: #ee822f !important;
-  border: 1px dashed #f9cbaa !important;
+  border: 1px solid #f9cbaa !important;
 }
 
 /*--Vision & Mission & Commitment--*/
 #shopify-section-template--15807729926262__rich_text_LiQVYq .rich-text__wrapper {
   background: url(https://10303e-fa.myshopify.com/cdn/shop/files/Vision_Mission_Commitment.jpg?v=1727250692&width=3840);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center bottom;
   background-size: cover;
-  border: 1px dashed #f9cbaa !important;
+  border: 1px solid #f9cbaa !important;
   padding-top: 3rem;
   padding-bottom: 3rem;
   width: 100%;
