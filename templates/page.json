@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".page-width,.main-content,.wrapper {margin-left: 60px !important; padding-left: 0 !important;}",
+        ".page-width,.main-content,.wrapper {margin-left: 100px !important; padding-left: 0 !important;}",
         "@media screen and (max-width: 768px) {.page-width, .main-content, .wrapper {margin-left: -10px !important; padding-left: 5px !important; }}"
       ],
       "settings": {
