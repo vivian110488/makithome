@@ -11,7 +11,9 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "custom_css": [],
+      "custom_css": [
+        ".page-width,.main-content,.wrapper {margin-left: 260px !important; padding-left: 0 !important;}"
+      ],
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
