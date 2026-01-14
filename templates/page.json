@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".page-width,.main-content,.wrapper {margin-left: 100px !important; padding-left: 0 !important;}",
+        ".page-width,.main-content,.wrapper {margin-left: 200px !important; padding-left: 0 !important;}",
         "@media screen and (max-width: 768px) {.page-width, .main-content, .wrapper {margin-left: -10px !important; padding-left: 5px !important; }}"
       ],
       "settings": {
@@ -26,21 +26,29 @@
         "heading_bC7MjL": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Assistance for Your Shopping Needs</strong>",
-            "heading_size": "h1"
+            "heading": "GD88 Driver",
+            "heading_size": "h0"
           }
         },
         "text_pm6znt": {
           "type": "text",
           "settings": {
-            "text": "<h2>We’re Here to Help!</h2>"
+            "text": "<h2><a href=\"https://drive.google.com/file/d/1sk6euXF0wOG4XXhysnLSSD6qNQzJlQlZ/view?usp=sharing\" target=\"_blank\" title=\"https://drive.google.com/file/d/1sk6euXF0wOG4XXhysnLSSD6qNQzJlQlZ/view?usp=sharing\">Install Driver on Windows</a></h2>"
+          }
+        },
+        "text_hQ3B86": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><a href=\"https://drive.google.com/file/d/1_J9BryYLHV5ApXFAMkSXDYZV9hrTmibR/view?usp=sharing\" target=\"_blank\" title=\"https://drive.google.com/file/d/1_J9BryYLHV5ApXFAMkSXDYZV9hrTmibR/view?usp=sharing\">Install Driver on MacOS</a></h2>"
           }
         }
       },
       "block_order": [
         "heading_bC7MjL",
-        "text_pm6znt"
+        "text_pm6znt",
+        "text_hQ3B86"
       ],
+      "custom_css": [],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
