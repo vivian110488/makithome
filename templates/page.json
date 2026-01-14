@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "/* 隐藏Shopify页面标题 */.main-page-title, .page-title, h1[class*=\"title\"] {display: none !important;}"
+        "/* 隐藏Shopify页面标题 */.main-page-title,.page-title,h1[class*=\"title\"] {display: none !important;}"
       ],
       "settings": {
         "padding_top": 28,
@@ -26,7 +26,7 @@
           "type": "heading",
           "settings": {
             "heading": "GD88 Driver",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "text_pm6znt": {
