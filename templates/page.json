@@ -11,9 +11,9 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "custom_css": [
-        "/* 隐藏Shopify页面标题 */.main-page-title,.page-title,h1[class*=\"title\"] {display: none !important;}"
+        "/* 向左偏移20px */.page-width,.main-content {margin-left: 200px !important; /* 第二步：应用统一偏移（复用上面的变量） */ transform: translateX(var(--page-horizontal-offset)) !important; /* 固定变换原点，确保所有屏幕尺寸偏移基准一致 */ transform-origin: center center !important; /* 防止偏移后内容被截断（可选） */ overflow: visible !important; /* 若偏移后右侧内容溢出，取消下面注释并匹配偏移值绝对值 padding-right: 20px !important; */}",
+        "/* 响应式保持偏移 */@media screen and (max-width: 768px) {.page-width, .main-content {margin-left: -20px !important; max-width: calc(100% - 20px) !important; }}"
       ],
       "settings": {
         "padding_top": 28,
