@@ -12,7 +12,9 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".page-width,.main-content,.wrapper {margin-left: 260px !important; padding-left: 0 !important;}"
+        ".page-width,.main-content,.wrapper{margin-left:260px!important; padding-left:0!important; position:sticky!important; top:0!important; width:100%!important;}",
+        "/* 平板（768-1024px） */@media screen and (max-width:1024px){.page-width,.main-content,.wrapper{margin-left:150px!important;}}",
+        "/* 移动端（≤768px） */@media screen and (max-width:768px){.page-width,.main-content,.wrapper{margin-left:50px!important;}}"
       ],
       "settings": {
         "padding_top": 28,
@@ -21,32 +23,6 @@
     },
     "rich_text_iLPDCJ": {
       "type": "rich-text",
-      "blocks": {
-        "heading_bC7MjL": {
-          "type": "heading",
-          "settings": {
-            "heading": "Z421 Driver",
-            "heading_size": "h1"
-          }
-        },
-        "text_pm6znt": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><a href=\"https://drive.google.com/file/d/1sk6euXF0wOG4XXhysnLSSD6qNQzJlQlZ/view?usp=sharing\" target=\"_blank\" title=\"https://drive.google.com/file/d/1sk6euXF0wOG4XXhysnLSSD6qNQzJlQlZ/view?usp=sharing\">Install Driver on Windows</a></h2>"
-          }
-        },
-        "text_hQ3B86": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><a href=\"https://drive.google.com/file/d/1_J9BryYLHV5ApXFAMkSXDYZV9hrTmibR/view?usp=sharing\" target=\"_blank\" title=\"https://drive.google.com/file/d/1_J9BryYLHV5ApXFAMkSXDYZV9hrTmibR/view?usp=sharing\">Install Driver on MacOS</a></h2>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bC7MjL",
-        "text_pm6znt",
-        "text_hQ3B86"
-      ],
       "custom_css": [],
       "settings": {
         "desktop_content_position": "left",
