@@ -12,9 +12,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".page-width,.main-content,.wrapper {padding-left: 0 !important; position: sticky !important; top: 0 !important; width: 100% !important;}",
-        "/* 平板（768-1024px） */@media screen and (max-width: 1024px) {.page-width, .main-content, .wrapper {margin-left: 150px !important; }}",
-        "/* 移动端（≤768px） */@media screen and (max-width: 768px) {.page-width, .main-content, .wrapper {margin-left: 50px !important; }}"
+        "@media screen and (min-width: 750px) {.page-width {padding: 0 5rem; }}"
       ],
       "settings": {
         "padding_top": 28,
