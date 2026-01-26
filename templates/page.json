@@ -12,10 +12,10 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "@media screen and (min-width: 750px) {.page-width {padding: 0 5rem; }}"
+        "@media screen and (min-width: 750px) {.page-width {padding: 0 5rem; /* 新增文字大小控制 */ font-size: 3rem; /* 你可以根据需要调整这个数值，比如 0.85rem、0.8rem 等 */ line-height: 1.5; /* 可选：调整行高，让文字排版更舒适 */ } /* 可选：如果想让页面内所有文字都变小，可添加这个通用选择器 */ .page-width * {font-size: inherit; /* 继承父级的字号，确保所有子元素都生效 */ }}"
       ],
       "settings": {
-        "padding_top": 28,
+        "padding_top": 20,
         "padding_bottom": 28
       }
     },
